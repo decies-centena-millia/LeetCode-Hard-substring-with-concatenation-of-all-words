@@ -1,3 +1,6 @@
+# Background
+This is a solution to a LeetCode Hard problem, getting 23ms runtime using python
+
 # Intuition
 The key here is to use a sliding window approach with a word frequency counter to efficiently check for valid substrings in the main string.
 
